@@ -3,7 +3,7 @@ Team FluffySoft
 HyperMass Game
 3/20
 
-/*This Github repository will only old the scripts I have contributed to
+/*This Github repository will only hold the scripts I have contributed to
 * to see the full game please go to fluffysoft.wordpress.com
 */
 
